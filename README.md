@@ -36,7 +36,7 @@ ConversorMoneda/
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/conversor-monedas.git
+   https://github.com/fran7913/Conversor-de-moneda.git
    cd conversor-monedas
    ```
 
@@ -69,7 +69,7 @@ String direccion = "https://v6.exchangerate-api.com/v6/TU_API_KEY_AQUI/latest/US
 *****************************************
 Bienvenido/a al Conversor de Moneda.
 
-1) Dólar => Peso argentino
+1) Dólar => Peso Colombiano
 ...
 9) Salir
 *****************************************
@@ -79,6 +79,12 @@ Elija una opción:
 ## 🤝 Contribuciones
 
 ¡Las contribuciones son bienvenidas! Puedes abrir un _issue_ o enviar un _pull request_ con mejoras o nuevas funcionalidades.
+
+## Insignia
+Insignia Badge-Conversor
+
+![Insignia2 Badge-Conversor](https://github.com/user-attachments/assets/fb6d9b15-40ba-4408-9151-715e98385889)
+
 
 ## 📄 Licencia
 
