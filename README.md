@@ -81,7 +81,7 @@ Elija una opción:
 ¡Las contribuciones son bienvenidas! Puedes abrir un _issue_ o enviar un _pull request_ con mejoras o nuevas funcionalidades.
 
 ## Insignia
-Badge-Conversor Insignia
+Insignia de Conversor de Moneda 
 
 ![Badge-Conversor](https://github.com/user-attachments/assets/fb6d9b15-40ba-4408-9151-715e98385889)
 
